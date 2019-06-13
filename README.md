@@ -9,4 +9,6 @@ The hypothesis is:
  both in terms of having limited observations and having limited features to work with. 
  The data are also discreet.
  
- The analysis uses linear regression, poisson regression and negative binomial models
+ The analysis uses linear regression, poisson regression and negative binomial models.
+ 
+ Analysis.R contains all of the code.
